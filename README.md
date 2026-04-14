@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm LinuxAPerte
+# 👋 Hello, I'm Linux
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LinuxAPerte&style=flat-square&color=0878c6)
 
@@ -21,7 +21,6 @@
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 </div>
