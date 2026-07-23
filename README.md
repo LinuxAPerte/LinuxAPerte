@@ -17,7 +17,7 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./portrait.svg?v=2" width="370" alt="Tux — portrait ASCII" /></td>
+<td valign="top"><img src="./portrait.svg?v=4" width="370" alt="Tux — portrait ASCII" /></td>
 <td valign="top"><img src="./whoami.svg?v=3" width="480" alt="LinuxAPerte — role, stack, highlights" /></td>
 </tr>
 </table>

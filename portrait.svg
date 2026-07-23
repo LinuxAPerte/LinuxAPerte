@@ -1,10 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="380" height="376" viewBox="0 0 380 376" font-family="'JetBrains Mono','Courier New',monospace">
   <style>
-    @keyframes typein { from {opacity:0; transform:translateX(-6px);} to {opacity:1; transform:translateX(0);} }
-    .tl { animation: typein .28s ease-out forwards; }
-    @keyframes blink { 50% {opacity:0;} }
-    .cursor { animation: blink 1s steps(1) infinite; }
-    @media (prefers-reduced-motion: reduce) { .tl { opacity:1 !important; animation:none !important; } }
+    .tl { opacity:1; }
   </style>
   <rect x="0.5" y="0.5" width="379" height="375" rx="10" fill="#0d1117" stroke="#30363d"/>
   <rect x="1" y="1" width="378" height="26" rx="10" fill="#161b22"/>
