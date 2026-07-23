@@ -18,7 +18,7 @@
 <table>
 <tr>
 <td valign="top"><img src="./portrait.svg?v=2" width="370" alt="Tux — portrait ASCII" /></td>
-<td valign="top"><img src="./whoami.svg?v=2" width="480" alt="LinuxAPerte — role, stack, highlights" /></td>
+<td valign="top"><img src="./whoami.svg?v=3" width="480" alt="LinuxAPerte — role, stack, highlights" /></td>
 </tr>
 </table>
 
@@ -27,7 +27,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=E6EDF3&center=true&vCenter=true&width=520&height=45&lines=linux%40github+~+%24+.%2Flinks.sh" alt="links" />
 
-<p><b>Developer · Discord Bots · FiveM · Web — Paris, France</b></p>
+<p><b>Discord Manager · Community · Bots · Web — Paris, France</b></p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-LinuxAPerte-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LinuxAPerte)
 
