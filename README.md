@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=E6EDF3&center=true&vCenter=true&width=520&height=45&lines=linux%40github+~+%24+.%2Fcontributions.sh" alt="contributions" />
 
-<img src="./contrib-heatmap.svg" width="860" alt="graphe de contributions de LinuxAPerte — actualise chaque jour" />
+<img src="./contrib-heatmap.svg?v=2" width="860" alt="graphe de contributions de LinuxAPerte — actualise chaque jour" />
 
 <br>
 <br>
@@ -17,8 +17,8 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./portrait.svg" width="370" alt="Tux — portrait ASCII" /></td>
-<td valign="top"><img src="./whoami.svg" width="480" alt="LinuxAPerte — role, stack, highlights" /></td>
+<td valign="top"><img src="./portrait.svg?v=2" width="370" alt="Tux — portrait ASCII" /></td>
+<td valign="top"><img src="./whoami.svg?v=2" width="480" alt="LinuxAPerte — role, stack, highlights" /></td>
 </tr>
 </table>
 
