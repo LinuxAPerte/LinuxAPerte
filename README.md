@@ -30,8 +30,6 @@
 <p><b>Developer · Discord Bots · FiveM · Web — Paris, France</b></p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-LinuxAPerte-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LinuxAPerte)
-[![Discord](https://img.shields.io/badge/Discord-à__compléter-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/▲_Portfolio-à__compléter-161b22?style=for-the-badge)](#)
 
 <br>
 
