@@ -1,26 +1,38 @@
 <div align="center">
 
-# 👋 Hello, I'm Linux
+<!-- Portrait ASCII (Tux) qui se tape ligne par ligne, a cote d'une carte
+     neofetch. Regenerer l'art : python scripts/generate_art.py -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=LinuxAPerte&style=flat-square&color=0878c6)
+<!-- Graphe de contributions anime (vraies donnees, cases qui s'allument une
+     a une), regenere chaque jour par .github/workflows/update-profile-art.yml -->
 
-## My Skills
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=E6EDF3&center=true&vCenter=true&width=520&height=45&lines=linux%40github+~+%24+.%2Fcontributions.sh" alt="contributions" />
 
-### Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<img src="./contrib-heatmap.svg" width="860" alt="graphe de contributions de LinuxAPerte — actualise chaque jour" />
 
-### Discord Bots
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
+<br>
+<br>
 
-### FiveM Scripts
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=E6EDF3&center=true&vCenter=true&width=520&height=45&lines=linux%40github+~+%24+whoami" alt="whoami" />
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+<table>
+<tr>
+<td valign="top"><img src="./portrait.svg" width="370" alt="Tux — portrait ASCII" /></td>
+<td valign="top"><img src="./whoami.svg" width="480" alt="LinuxAPerte — role, stack, highlights" /></td>
+</tr>
+</table>
+
+<br>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=E6EDF3&center=true&vCenter=true&width=520&height=45&lines=linux%40github+~+%24+.%2Flinks.sh" alt="links" />
+
+<p><b>Developer · Discord Bots · FiveM · Web — Paris, France</b></p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-LinuxAPerte-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LinuxAPerte)
+[![Discord](https://img.shields.io/badge/Discord-à__compléter-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/▲_Portfolio-à__compléter-161b22?style=for-the-badge)](#)
+
+<br>
 
 </div>
